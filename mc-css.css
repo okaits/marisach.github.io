@@ -1,10 +1,11 @@
 html, body {
     font-family: "游ゴシック";
   }
-  example {
-    position: relative;/*相対配置*/
-    }
-  .box h1 {
+ 
+.box {  
+    position: relative;
+}
+.box h1 {
       position: absolute;
       top: 851;
       left: 180;
