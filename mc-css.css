@@ -4,7 +4,7 @@ html, body {
   example {
     position: relative;/*相対配置*/
     }
-  .box p {
+  .box h1 {
       position: absolute;
       top: 851;
       left: 180;
