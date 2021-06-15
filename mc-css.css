@@ -7,6 +7,6 @@ html, body {
 }
 .box h1 {
       position: absolute;
-      top: 851;
-      left: 180;
+      top: 0;
+      left: 0;
   }
